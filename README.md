@@ -1,7 +1,3 @@
 # CUDA
-# CUDA
-# CUDA
-# CUDA
-# CUDA
-# CUDA
-# CUDA
+
+- Examples with jupyter notebooks
